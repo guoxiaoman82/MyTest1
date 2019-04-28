@@ -9,6 +9,7 @@ import butterknife.Unbinder;
 public class MainActivity extends AppCompatActivity {
 
     //使用ButterKnife
+    //另一开发者更新注册测试
     private Unbinder unbinder;
 
     @Override
