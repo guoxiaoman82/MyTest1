@@ -1,6 +1,5 @@
 package com.gxm.mtest.mytest;
 
-import android.os.Binder;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -9,6 +8,7 @@ import butterknife.Unbinder;
 
 public class MainActivity extends AppCompatActivity {
 
+    //使用ButterKnife
     private Unbinder unbinder;
 
     @Override
