@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':eyeofcloud-fullstack-android-1.4.3'
